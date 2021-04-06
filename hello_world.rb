@@ -1,1 +1,1 @@
-puts "Gelly u a whole bitch"
+puts "Hello world!"
